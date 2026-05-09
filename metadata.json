@@ -1,0 +1,6 @@
+{
+  "name": "MiniCompile",
+  "description": "A sleek, multi-language code compiler and previewer supporting HTML, JavaScript, and AI-powered Python execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["REPL"]
+}
